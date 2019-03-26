@@ -2,6 +2,8 @@ package entidades;
 
 import java.util.Date;
 
+import entidades.enums.OrdemStatus;
+
 public class Ordem {
 
 	private int id;
