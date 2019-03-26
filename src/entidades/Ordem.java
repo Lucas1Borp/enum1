@@ -6,7 +6,7 @@ import entidades.enums.OrdemStatus;
 
 public class Ordem {
 
-	private int id;
+	private Integer id;
 	private Date data;
 	private OrdemStatus status;
 	
